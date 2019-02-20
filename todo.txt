@@ -1,0 +1,4 @@
+Layout - semi-done
+Chat functionality - done
+
+Google Places API - get started
