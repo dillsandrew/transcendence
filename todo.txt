@@ -2,3 +2,10 @@ Layout - semi-done
 Chat functionality - done
 
 Google Places API - get started
+	Need to get user's location
+		Click allow
+	Display list of available options to join
+	Once user selects location
+		Either create or join room
+
+
